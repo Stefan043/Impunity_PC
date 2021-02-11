@@ -12,7 +12,7 @@ Also make sure you have Python added as a SYSTEM PATH VARIABLE which can be chec
 
 1. Open up your terminal
 2. "cd" to the project directory
-3. type the command "pip install requirements.txt" (without the quotation marks).
+3. type the command "pip install -r requirements.txt" (without the quotation marks).
 
 ## Executig the application
 
