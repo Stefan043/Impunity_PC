@@ -1,1 +1,2 @@
 Download the model from https://drive.google.com/file/d/1xKGDA-jzgiokND6TF40kYvDMVGxzJK44/view?usp=sharing
+And paste the file in this folder.
